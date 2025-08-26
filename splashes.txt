@@ -49,3 +49,4 @@ If I had hands, I could hug you
 Parity is key
 Pretty Dang Cool!
 You OWN the hardware you purchased!
+"Do you love [RELEASE_BUILD]?"
