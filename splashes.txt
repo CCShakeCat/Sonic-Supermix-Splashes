@@ -50,3 +50,5 @@ Parity is key
 Pretty Dang Cool!
 You OWN the hardware you purchased!
 "Do you love [RELEASE_BUILD]?"
+Insert Start, Press Coin!
+Powered by...something
