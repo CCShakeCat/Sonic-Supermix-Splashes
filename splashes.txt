@@ -52,3 +52,4 @@ You OWN the hardware you purchased!
 "Do you love [RELEASE_BUILD]?"
 Insert Start, Press Coin!
 Powered by...something
+"Technology: Only good when it wants to work" - CCShakeCat 2025
